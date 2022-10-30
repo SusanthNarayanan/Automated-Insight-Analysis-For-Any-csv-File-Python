@@ -84,3 +84,4 @@ st.sidebar.write("blah blah \n blah")
 st.sidebar.write("About us")
 st.sidebar.write("blah blah \n blah")
 st.sidebar.image("https://static.streamlit.io/examples/cat.jpg", width=200)
+ 
