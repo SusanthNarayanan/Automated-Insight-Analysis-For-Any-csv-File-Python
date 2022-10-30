@@ -372,3 +372,5 @@ def admin():
 while True:
     os.system('cls')
     defult()
+
+    
