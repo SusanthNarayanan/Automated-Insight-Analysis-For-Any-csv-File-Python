@@ -1,9 +1,28 @@
-# Automated Insight Analysis for any CSV File Python
+# Automated Insight Analysis for any CSV
 
-Not everybody knows Python. So if not python will we be not able to analyse the data?. Not so! Here is automated analysis genie satisfying all the basic analyticaL needs a beginner wants
+## Introduction:
+Data analysis is a crucial part of any business, but not everyone has the skills to analyze data efficiently. The proposed project aims to create a tool that can analyze any CSV file and provide insights and visualizations automatically. The tool will perform various analyses such as minimum, maximum, average, heatmap, distplot, piechart, multiple linear regression, and statistical tests such as shapiro, gaussian, and chi-square tests. The tool will be developed using Python and the Streamlit framework.
 
-Automated Insight Analysis is a composition of Python library StreamLit which was used in developing a website based application. You upload the csv file, we process it for you
+## Objective:
+The main objective of this project is to develop a tool that can analyze any CSV file and provide insights and visualizations automatically. The tool will perform various analyses such as minimum, maximum, average, heatmap, distplot, piechart, multiple linear regression, and statistical tests such as shapiro, gaussian, and chi-square tests. The tool will also allow users to download the analysis results for each method.
 
-All you need to do is use Visual Basic code editor for compilng and a web browser for viewing the output.
+## Methodology:
+The project will follow the following methodology:
 
-Install necessary libraries using pip install command in the terminal
+*Data Collection:* Collect CSV files from different sources, such as Excel spreadsheets and databases.
+*Data Cleaning and Preparation:* Clean the collected data, including removing duplicates, filling missing values, and standardizing data formats.
+*Data Analysis:* Develop Python code to analyze the data using various methods such as minimum, maximum, average, heatmap, distplot, piechart, multiple linear regression, and statistical tests such as shapiro, gaussian, and chi-square tests.
+*Streamlit Integration:* Develop a Streamlit app that integrates the Python code and provides a user-friendly interface for users to upload their CSV files and view the analysis results.
+*Downloadable Results:* Allow users to download the analysis results for each method in a CSV file format.
+
+## Expected Outcomes:
+The project aims to achieve the following outcomes:
+
+1) Develop a tool that can analyze any CSV file and provide insights and visualizations automatically.
+2) Provide users with a user-friendly interface to upload their CSV files and view the analysis results.
+3) Perform various analyses such as minimum, maximum, average, heatmap, distplot, piechart, multiple linear regression, and statistical tests such as shapiro, gaussian, and chi-square tests.
+4) Allow users to download the analysis results for each method in a CSV file format.
+
+
+## Conclusion:
+The proposed project will enable users to analyze any CSV file and obtain insights and visualizations automatically. The project will use various Python libraries to perform the analyses and the Streamlit framework to provide a user-friendly interface for users. The project will also allow users to download the analysis results for each method in a CSV file format. This project will be helpful for businesses and individuals who do not have the skills to analyze data efficiently and require automated data analysis.
