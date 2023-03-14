@@ -10,9 +10,13 @@ The main objective of this project is to develop a tool that can analyze any CSV
 The project will follow the following methodology:
 
 *Data Collection:* Collect CSV files from different sources, such as Excel spreadsheets and databases.
+
 *Data Cleaning and Preparation:* Clean the collected data, including removing duplicates, filling missing values, and standardizing data formats.
+
 *Data Analysis:* Develop Python code to analyze the data using various methods such as minimum, maximum, average, heatmap, distplot, piechart, multiple linear regression, and statistical tests such as shapiro, gaussian, and chi-square tests.
+
 *Streamlit Integration:* Develop a Streamlit app that integrates the Python code and provides a user-friendly interface for users to upload their CSV files and view the analysis results.
+
 *Downloadable Results:* Allow users to download the analysis results for each method in a CSV file format.
 
 ## Expected Outcomes:
